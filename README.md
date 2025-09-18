@@ -1,4 +1,4 @@
-eja bem-vindo aos laboratórios de **Big Data**.  
+Seja bem-vindo aos laboratórios de **Big Data**.  
 Este repositório foi desenvolvido para a prática das ferramentas utilizadas nesse ecossistema.
 
 No cenário atual de **Tecnologia da Informação e Comunicação (TIC)**, enfrentamos o desafio de armazenar e gerenciar quantidades massivas de dados — mais de **2,5 quintilhões de bytes** gerados diariamente por redes sociais, transações financeiras, sensores IoT e dispositivos conectados à internet.  
